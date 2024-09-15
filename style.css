@@ -1,0 +1,26 @@
+
+h1{
+    font-size: 63px;
+    color: #ffffff;
+    padding: 0.5em;
+    text-align: center;
+}
+
+h2{
+    font-size: 24px;
+    text-transform: uppercase;
+    color: #303030;
+    font-weight: 600;
+}
+
+
+section, footer {
+    margin: 40px 0;
+}
+
+.carousel-caption h5{
+    font-size: 80px;
+    font-family: cursive;
+    color:coral;
+    text-shadow: 2px 2px 2px #303030;
+}
